@@ -9,7 +9,7 @@
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on ... **Harvest Tychoon** 
+- 🔭 I’m currently working on ... **Harvest Tycoon** 
 - 🌱 I’m currently learning ... **Angular through MEAN Stack**
 - 👯 I’m looking to collaborate on ... **Code_Wars Katas**
 - 🤔 I’m looking for help with ... **API Integrations**
