@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, ✌ I'm Greg</h1>
 <hr>
 
-<img align="center" src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/117970591_10222700389280499_8232705572198024593_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=z0E_tCHk5tIAX8zjyyd&_nc_oc=AQl1M0NyFjYETrfy3BwfNm6dJd9xLGB8CVRwVwumvyhCdgWV0OlJpFs64ruXdSYLYME&_nc_ht=scontent-ort2-2.xx&oh=198d846315845150a76693d0acc7d958&oe=5FDAF7D0" height="550">
+<img align="center" src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/117970591_10222700389280499_8232705572198024593_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=z0E_tCHk5tIAX8zjyyd&_nc_oc=AQl1M0NyFjYETrfy3BwfNm6dJd9xLGB8CVRwVwumvyhCdgWV0OlJpFs64ruXdSYLYME&_nc_ht=scontent-ort2-2.xx&oh=198d846315845150a76693d0acc7d958&oe=5FDAF7D0" height="350">
 
 &nbsp;
 &nbsp;
