@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/goodguygregory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="goodguygregory" height="35" width="35" /></a>
 <a href="https://www.instagram.com/bikeguygregory/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bikeguygregory" height="35" width="35" /></a>
 <a href="https://open.spotify.com/user/1269693776?si=Zevz2sKBT9-0XkrTaDbXFw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="bikeguygregory" height="35" width="35" /></a>
-<a href="https://discordapp.com/invite/GoodGuyGregory#4749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="GoodGuyGregory#4749" height="35" width="35" /></a>
+<a href="https://discord.gg/yBYhtf5w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="GoodGuyGregory#4749" height="35" width="35" /></a>
 
 
 </p>
