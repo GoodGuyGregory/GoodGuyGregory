@@ -34,7 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodguygregory&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodguygregory&show_icons=true&theme=blueberry&hide=stars,issues" alt="goodguygregory" /></p>
 <br>
 
