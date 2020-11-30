@@ -34,6 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodguygregory&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodguygregory&show_icons=true&theme=blueberry&hide=stars,issues" alt="goodguygregory" /></p>
 <br>
 
@@ -51,5 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... **greg.witt625@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![goodguygregory's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goodguygregory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
