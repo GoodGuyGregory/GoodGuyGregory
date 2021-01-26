@@ -1,11 +1,6 @@
 <h1 align="left">Hello World, ✌ I'm Greg</h1>
 <hr>
 
-<p align="left">
-<img align="center" src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/117970591_10222700389280499_8232705572198024593_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=V79_B3UVFEEAX-iSkqg&_nc_oc=AQlL6GtLQLsVIe8OJj0pLPYIHzSsdyeG2blW9KkRsqthb92z7NHWs1mD20ncY4-MBGI&_nc_ht=scontent-iad3-1.xx&oh=b636e2f16823e16eebe1fe51118378ad&oe=600284D0" height="450">
-  </p>
-
-
 &nbsp;
 &nbsp;
 
