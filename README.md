@@ -4,8 +4,8 @@
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on ... **Harvest Tycoon** 
-- 🌱 I’m currently learning ... **Angular through MEAN Stack**
+- 🔭 I’m currently working on ... **An SQL Certification** 
+- 🌱 I’m currently learning ... **C# Development Through Katas**
 - 👯 I’m looking to collaborate on ... **Code_Wars Katas**
 - 🤔 I’m looking for help with ... **API Integrations**
 - 💬 Ask me about ... **How many miles I biked this week** :rocket:
