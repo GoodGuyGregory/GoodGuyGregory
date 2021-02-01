@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on ... **An SQL Certification** 
+- 🔭 I’m currently working on ... **An C# Certification** 
 - 🌱 I’m currently learning ... **C# Development Through Katas**
 - 👯 I’m looking to collaborate on ... **Code_Wars Katas**
 - 🤔 I’m looking for help with ... **API Integrations**
