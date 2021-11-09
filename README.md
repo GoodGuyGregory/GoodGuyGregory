@@ -4,8 +4,8 @@
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on ... **My C# Certification and Python Automations** 
-- 🌱 I’m currently learning ... **C# Development Through Katas**
+- 🔭 I’m currently working on ... **C# REST API and  a Python Application** 
+- 🌱 I’m currently learning ... **C# API Development**
 - 👯 I’m looking to collaborate on ... **Code_Wars Katas**
 - 🤔 I’m looking for help with ... **API Integrations**
 - 💬 Ask me about ... **How many miles I biked this week** :rocket:
