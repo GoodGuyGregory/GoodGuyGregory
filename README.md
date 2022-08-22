@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-- 🔭 I’m currently working on ... **C# REST API and  a Python Application** 
+- 🔭 I’m currently working on ... **Python Scripting Automation** 
 - 🌱 I’m currently learning ... **C# API Development**
 - 👯 I’m looking to collaborate on ... **Code_Wars Katas**
 - 🤔 I’m looking for help with ... **API Integrations**
