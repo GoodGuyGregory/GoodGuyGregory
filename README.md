@@ -28,11 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="70" height="60"/> <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="kotlin" width="70" height="70"/> </a><a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="60"/> 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodguygregory&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://www.codewars.com/users/GoodGuyGregory/badges/large" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goodguygregory&show_icons=true&theme=blueberry&hide=stars,issues" alt="goodguygregory" /></p>
 
 <br>
 
