@@ -5,7 +5,7 @@
 &nbsp;
 
 - 🔭 I’m currently working on ... **Python Scripting Automation** 
-- 🌱 I’m currently learning ... **Selenium with Python**
+- 🌱 I’m currently learning ... **QGIS Mapping Technologies**
 - 👯 I’m looking to collaborate on ... **A Hacktober Fest Project**
 - 🤔 I’m looking for help with ... **API Integrations**
 - 💬 Ask me about ... **How many miles I biked this week** :rocket:
