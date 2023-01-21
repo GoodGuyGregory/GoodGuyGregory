@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... **GO Lang**
 - 💬 Ask me about ... **How Many Miles I biked this week** :rocket:
 - 📫 How to reach me: ... **greg.witt625@gmail.com**
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 
