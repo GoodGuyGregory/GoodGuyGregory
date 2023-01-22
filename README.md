@@ -5,8 +5,8 @@
 &nbsp;
 
 - 🔭 I’m currently working on ... **Python Scripting Automation** 
-- 🌱 I’m currently learning ... **QGIS Mapping Technologies**
-- 👯 I’m looking to collaborate on ... **A Hacktober Fest Project**
+- 🌱 I’m currently learning ... **Bike Lane Uprising**
+- 👯 I’m looking to collaborate on ... **React Projects**
 - 🤔 I’m looking for help with ... **API Integrations**
 - 💬 Ask me about ... **How many miles I biked this week** :rocket:
 - 📫 How to reach me: ... **greg.witt625@gmail.com**
