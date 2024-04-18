@@ -3,9 +3,9 @@
 
 &nbsp;
 &nbsp;
-- 📖 Currently Studing ... **Master's Degree at Portland State University**
-- 💬 Ask me about ... **How many miles I biked this week** :rocket:
-- 📫 How to reach me: ... **gregwitt@pdx.edu**
+- 📖 Currently Studing **Master's Degree at Portland State University**
+- 💬 Ask me about **How many miles I biked this week** :rocket:
+- 📫 How to reach me: **gregwitt@pdx.edu**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
