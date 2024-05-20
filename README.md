@@ -3,7 +3,7 @@
 
 &nbsp;
 &nbsp;
-- 📖 Currently Studing **Master's Degree at Portland State University**
+- 📖 Currently Studing **Machine Learning and data science**
 - 💬 Ask me about **How many miles I biked this week** :rocket:
 - 📫 How to reach me **gregwitt@pdx.edu**
 
