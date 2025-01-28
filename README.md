@@ -25,6 +25,11 @@
 
 <p><img align="center" src="https://www.codewars.com/users/GoodGuyGregory/badges/large" /> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodGuyGregory&layout=compact) 
+<img src="https://github-readme-stats.vercel.app/api?username=GoodGuyGregory&show_icons=true&theme=cobalt" alt="github stats" width="45%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GoodGuyGregory)
+
 <br>
 
 
