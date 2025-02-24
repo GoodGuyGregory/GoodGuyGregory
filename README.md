@@ -3,8 +3,8 @@
 
 &nbsp;
 &nbsp;
-- 📖 Currently Studing **Machine Learning and data science**
-- 💬 Ask me about **How many miles I biked this week** :rocket:
+- 📖 Currently Studing **Agentic Design and AI Automation**
+- 💬 Ask me about **How many miles I biked this week** 🚲:
 - 📫 How to reach me **gregwitt@pdx.edu**
 
 <p align="left">
