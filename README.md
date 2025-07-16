@@ -3,7 +3,10 @@
 
 &nbsp;
 &nbsp;
-- 📖 Currently Studing **Agentic Design and AI Automation**
+- 📓 Currently Studing **Agentic Design and AI Automation**
+- 📚 Currently Reading Lurking by Joanne McNeil
+- 🔊 Current Listening Chaos In the CBD - A Deeper Life
+- 📹 Current Video Recommendation [Bloc Party Tiny Desk Concert](https://www.youtube.com/watch?v=_p8T7JT8LK0&list=RD_p8T7JT8LK0&start_radio=1)
 - 💬 Ask me about **How many miles I biked this week** 🚲:
 - 📫 How to reach me **gregwitt@pdx.edu**
 
