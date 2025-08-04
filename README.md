@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 - 📓 Currently Studing **Agentic Design and AI Automation**
-- 📚 Currently Reading Lurking by Joanne McNeil
+- 📚 Currently Reading Empire of Ai by Karen Hao
 - 🔊 Current Listening Chaos In the CBD - A Deeper Life
 - 📹 Current Video Recommendation [Maribu State's KEXP Performance](https://www.youtube.com/watch?v=m3h7POxkpAI&list=RDm3h7POxkpAI&start_radio=1)
 - 💬 Ask me about **How many miles I biked this week** 🚲
