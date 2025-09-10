@@ -3,7 +3,7 @@
 
 &nbsp;
 &nbsp;
-- 📓 Currently Studing: **GitTea for self hosting my own code, because github is now an AI hot garbage domain**
+- 📓 Currently Working On: **Python Postgresql Blog Post**
 - 📚 Currently Reading: Empire of Ai by Karen Hao
 - 🔊 Current Listening Chaos In the CBD - A Deeper Life
 - 📹 Current Video Recommendation [Maribu State's KEXP Performance](https://www.youtube.com/watch?v=m3h7POxkpAI&list=RDm3h7POxkpAI&start_radio=1)
